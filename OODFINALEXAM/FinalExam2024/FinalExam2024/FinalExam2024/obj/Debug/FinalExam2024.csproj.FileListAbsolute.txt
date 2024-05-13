@@ -1,0 +1,15 @@
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\bin\Debug\FinalExam2024.exe.config
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\bin\Debug\FinalExam2024.exe
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\bin\Debug\FinalExam2024.pdb
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024.csproj.AssemblyReference.cache
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\MainWindow.g.cs
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\App.g.cs
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024_MarkupCompile.cache
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024_MarkupCompile.lref
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\MainWindow.baml
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024.g.resources
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024.Properties.Resources.resources
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024.csproj.GenerateResource.cache
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024.csproj.CoreCompileInputs.cache
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024.exe
+C:\Users\S00236800\Desktop\OODFINALEXAM\FinalExam2024\FinalExam2024\FinalExam2024\obj\Debug\FinalExam2024.pdb
