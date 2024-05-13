@@ -15,14 +15,26 @@ using System.Windows.Shapes;
 
 namespace FinalExam2024
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
         }
+
+        public class Booking
+        {
+            int BookingsID;
+            DateTime BookingsDate;
+            int NumberOfParticipants;
+        }
+        public class Customer
+        {
+            public int CustomerID;
+            public string Name;
+            public string ContactNumber;
+
+        }
+
     }
 }

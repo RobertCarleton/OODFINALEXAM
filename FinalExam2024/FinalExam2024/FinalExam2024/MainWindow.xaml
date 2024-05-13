@@ -1,0 +1,22 @@
+﻿<Window x:Class="FinalExam2024.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalExam2024"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataGrid" AutoGenerateColumns="False">
+            <!-- Define columns -->
+            <DataGrid.Columns>
+                <!-- Example column for customer ID -->
+                <DataGridTextColumn Header="Customer ID" Binding="{Binding CustomerID}" />
+                <!-- Example column for customer name -->
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                <!-- Add more columns as needed -->
+                <DataGridTextColumn Header="Contact Number" Binding="{Binding ContactNumber}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
